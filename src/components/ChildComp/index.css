@@ -1,0 +1,17 @@
+.childVal {
+  color: green;
+  font-size: 30;
+}
+
+.val {
+  color: red;
+}
+
+.childButton {
+  color: white;
+  background-color: blue;
+  width: 140px;
+  height: 40px;
+  border-radius: 8px;
+  border-width: 0px;
+}
